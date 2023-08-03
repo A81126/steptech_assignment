@@ -25,9 +25,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'user'
+    ]
 
-# sql database use
+# Mysql database use
 Install the Mysql database,
 pip install django
 pip install mysqlclient
-]
+
